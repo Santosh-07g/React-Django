@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "name": "Golu",
+      "email": "Golu@gmail.com",
+      "department": "CSE",
+      "course": "Java full stack",
+      "id": "60ad"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
